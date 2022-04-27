@@ -4,24 +4,39 @@ repo: uptime
 sites:
   - name: Api
     url: https://api.storest.io/health
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Application
     url: https://app.storest.io/index.html
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Website
     url: https://www.storest.io/index.html
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Payments
     url: https://api.storest.io/api/v1/payment/status
+    maxResponseTime: 3000
     expectedStatusCodes:
       - 200
 
 status-website:
   cname: status.storest.io
   logoUrl: https://avatars.githubusercontent.com/u/104506618
+  faviconSvg: https://app.storest.io/assets/favicon.svg
+  theme: ocean
   name: Storest
   introTitle: "Systems Report"
   introMessage: "This page reports outages and scheduled maintenance."
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
