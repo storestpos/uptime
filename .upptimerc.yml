@@ -1,5 +1,5 @@
 owner: storestpos
-repo: upptime
+repo: uptime
 
 sites:
   - name: Storest
@@ -7,12 +7,7 @@ sites:
 
 status-website:
   cname: status.storest.io
-  logoUrl: https://www.storest.io/assets/icon.svg
+  logoUrl: https://app.storest.io/assets/icon.svg
   name: Storest
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Helping your business grow.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introTitle: "This is a title."
+  introMessage: "Helping your business grow."
