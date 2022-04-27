@@ -27,7 +27,7 @@ status-website:
   cname: status.storest.io
   logoUrl: https://avatars.githubusercontent.com/u/104506618
   faviconSvg: https://app.storest.io/assets/favicon.svg
-  theme: ocean
+  theme: dark
   name: Storest
   introTitle: "Systems Report"
   introMessage: "This page reports outages and scheduled maintenance."
