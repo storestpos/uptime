@@ -2,12 +2,26 @@ owner: storestpos
 repo: uptime
 
 sites:
-  - name: Storest
+  - name: Api
     url: https://api.storest.io/health
+    expectedStatusCodes:
+      - 200
+  - name: Application
+    url: https://app.storest.io/index.html
+    expectedStatusCodes:
+      - 200
+  - name: Website
+    url: https://www.storest.io/index.html
+    expectedStatusCodes:
+      - 200
+  - name: Payments
+    url: https://api.storest.io/api/v1/payment/status
+    expectedStatusCodes:
+      - 200
 
 status-website:
   cname: status.storest.io
   logoUrl: https://avatars.githubusercontent.com/u/104506618
   name: Storest
-  introTitle: "This is a title."
-  introMessage: "Helping your business grow."
+  introTitle: "Systems Report"
+  introMessage: "This page reports outages and scheduled maintenance."
