@@ -7,7 +7,7 @@ sites:
 
 status-website:
   cname: status.storest.io
-  logoUrl: https://app.storest.io/assets/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/104506618
   name: Storest
   introTitle: "This is a title."
   introMessage: "Helping your business grow."
