@@ -46,4 +46,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  footer: [Storest](https://storest.io)
+  footer: "[Storest](https://storest.io)"
