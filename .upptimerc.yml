@@ -4,33 +4,33 @@ repo: uptime
 sites:
   - name: Api
     url: https://api.storest.io/health
-    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
+    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Application
     url: https://app.storest.io/index.html
-    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
+    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Website
     url: https://www.storest.io/index.html
-    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
+    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
   - name: Payments
     url: https://api.storest.io/api/v1/payment/status
-    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
+    icon: https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg
     maxResponseTime: 3000
     expectedStatusCodes:
       - 200
 
 status-website:
   cname: status.storest.io
-  logoUrl: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
-  faviconSvg: https://raw.githubusercontent.com/storestpos/uptime/master/assets/storest-icon.svg
+  logoUrl: https://raw.githubusercontent.com/storestpos/uptime/master/assets/logo.svg
+  faviconSvg: https://raw.githubusercontent.com/storestpos/uptime/master/assets/favicon.svg
   theme: dark
   name: Storest
   introTitle: "Systems Report"
