@@ -1,7 +1,7 @@
 url: https://api.storest.io/api/v1/payment/status
-status: up
-code: 200
-responseTime: 355
-lastUpdated: 2022-05-22T23:35:14.828Z
+status: down
+code: 502
+responseTime: 17
+lastUpdated: 2022-05-23T19:50:58.304Z
 startTime: Wed Apr 27 2022 15:39:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
