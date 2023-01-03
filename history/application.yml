@@ -1,7 +1,7 @@
 url: https://app.storest.io/index.html
-status: degraded
+status: down
 code: 405
-responseTime: 3816
-lastUpdated: 2023-01-03T13:21:14.682Z
+responseTime: 631
+lastUpdated: 2023-01-03T13:32:04.743Z
 startTime: Wed Apr 27 2022 15:39:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
