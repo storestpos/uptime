@@ -1,7 +1,7 @@
 url: https://app.storest.io/index.html
-status: up
-code: 200
-responseTime: 65
-lastUpdated: 2023-01-12T09:29:26.779Z
+status: down
+code: 405
+responseTime: 186
+lastUpdated: 2023-01-12T09:38:06.197Z
 startTime: Wed Apr 27 2022 15:39:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
