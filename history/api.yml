@@ -1,7 +1,7 @@
 url: https://api.storest.io/health
-status: degraded
-code: 526
-responseTime: 3139
-lastUpdated: 2023-01-18T06:43:28.510Z
+status: down
+code: 525
+responseTime: 62
+lastUpdated: 2023-01-18T06:50:15.707Z
 startTime: Wed Apr 27 2022 15:39:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
