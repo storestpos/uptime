@@ -1,7 +1,7 @@
 url: https://api.storest.io/api/v1/payment/status
-status: degraded
+status: down
 code: 500
-responseTime: 23844
-lastUpdated: 2023-03-31T23:16:45.063Z
+responseTime: 926
+lastUpdated: 2023-03-31T23:27:30.145Z
 startTime: Wed Apr 27 2022 15:39:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
