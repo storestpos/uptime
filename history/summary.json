@@ -16,7 +16,7 @@
     "timeMonth": 12670,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2023-06-29": 36,
+      "2023-06-29": 83,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-06-29": 36,
+      "2023-06-29": 83,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -659,7 +659,7 @@
     "timeMonth": 13655,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-06-29": 36,
+      "2023-06-29": 83,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -907,7 +907,7 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "payments",
     "status": "down",
-    "uptime": "7.29%",
+    "uptime": "7.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -918,7 +918,7 @@
     "timeMonth": 16012,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-06-29": 36,
+      "2023-06-29": 83,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
