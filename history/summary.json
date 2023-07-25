@@ -16,7 +16,7 @@
     "timeMonth": 14950,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2023-07-25": 1116,
+      "2023-07-25": 1123,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-07-25": 1116,
+      "2023-07-25": 1123,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -659,7 +659,7 @@
     "timeMonth": 20209,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2023-07-25": 1116,
+      "2023-07-25": 1123,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -906,7 +906,7 @@
     "url": "https://api.storest.io/api/v1/payment/status",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "payments",
-    "status": "degraded",
+    "status": "down",
     "uptime": "6.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -918,7 +918,7 @@
     "timeMonth": 17501,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2023-07-25": 1116,
+      "2023-07-25": 1123,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
