@@ -16,7 +16,7 @@
     "timeMonth": 14622,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2023-08-10": 1058,
+      "2023-08-10": 1065,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2023-08-10": 1058,
+      "2023-08-10": 1065,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
@@ -647,7 +647,7 @@
     "url": "https://www.storest.io/index.html",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "35.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -659,7 +659,7 @@
     "timeMonth": 21603,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2023-08-10": 1058,
+      "2023-08-10": 1065,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
@@ -918,7 +918,7 @@
     "timeMonth": 19031,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2023-08-10": 1058,
+      "2023-08-10": 1065,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
