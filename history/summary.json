@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
     "status": "down",
-    "uptime": "30.35%",
+    "uptime": "30.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "37.34%",
-    "time": 1380,
+    "time": 1384,
     "timeDay": 7360,
     "timeWeek": 7016,
     "timeMonth": 13484,
-    "timeYear": 1711,
+    "timeYear": 1716,
     "dailyMinutesDown": {
-      "2023-11-01": 837,
+      "2023-11-02": 59,
+      "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -254,8 +255,7 @@
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
-      "2022-11-03": 1440,
-      "2022-11-02": 1440
+      "2022-11-03": 1440
     }
   },
   {
@@ -264,18 +264,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "application",
     "status": "down",
-    "uptime": "5.71%",
+    "uptime": "5.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 706,
+    "time": 709,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1083,
+    "timeYear": 1094,
     "dailyMinutesDown": {
-      "2023-11-01": 837,
+      "2023-11-02": 59,
+      "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -638,8 +639,7 @@
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
-      "2022-11-03": 1440,
-      "2022-11-02": 1440
+      "2022-11-03": 1440
     }
   },
   {
@@ -648,18 +648,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
     "status": "down",
-    "uptime": "30.35%",
+    "uptime": "30.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "37.34%",
-    "time": 1464,
+    "time": 1467,
     "timeDay": 26416,
     "timeWeek": 26416,
     "timeMonth": 15175,
-    "timeYear": 1950,
+    "timeYear": 1957,
     "dailyMinutesDown": {
-      "2023-11-01": 837,
+      "2023-11-02": 59,
+      "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -897,8 +898,7 @@
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
-      "2022-11-03": 1440,
-      "2022-11-02": 1440
+      "2022-11-03": 1440
     }
   },
   {
@@ -912,13 +912,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1368,
+    "time": 1370,
     "timeDay": 0,
     "timeWeek": 21701,
     "timeMonth": 17965,
-    "timeYear": 2309,
+    "timeYear": 2319,
     "dailyMinutesDown": {
-      "2023-11-01": 837,
+      "2023-11-02": 59,
+      "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -1281,8 +1282,7 @@
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
-      "2022-11-03": 1440,
-      "2022-11-02": 1440
+      "2022-11-03": 1440
     }
   }
 ]
