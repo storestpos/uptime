@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
     "status": "down",
-    "uptime": "26.12%",
+    "uptime": "26.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.99%",
-    "time": 1817,
+    "uptimeYear": "28.76%",
+    "time": 1823,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2804,
+    "timeYear": 2822,
     "dailyMinutesDown": {
-      "2024-01-30": 277,
+      "2024-01-31": 59,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -280,8 +281,7 @@
       "2023-02-15": 93,
       "2023-02-13": 105,
       "2023-02-02": 1222,
-      "2023-02-01": 169,
-      "2023-01-31": 838
+      "2023-02-01": 169
     }
   },
   {
@@ -290,18 +290,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "application",
     "status": "down",
-    "uptime": "4.91%",
+    "uptime": "4.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1008,
+    "time": 1016,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 277,
+      "2024-01-31": 59,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -664,8 +665,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   },
   {
@@ -674,18 +674,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
     "status": "down",
-    "uptime": "26.12%",
+    "uptime": "26.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.00%",
-    "time": 2177,
+    "uptimeYear": "28.77%",
+    "time": 2184,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 29510,
-    "timeYear": 3589,
+    "timeYear": 3612,
     "dailyMinutesDown": {
-      "2024-01-30": 277,
+      "2024-01-31": 59,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -949,8 +950,7 @@
       "2023-02-15": 93,
       "2023-02-13": 104,
       "2023-02-02": 1222,
-      "2023-02-01": 169,
-      "2023-01-31": 837
+      "2023-02-01": 169
     }
   },
   {
@@ -959,18 +959,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "payments",
     "status": "down",
-    "uptime": "4.85%",
+    "uptime": "4.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2160,
+    "time": 2167,
     "timeDay": 3543,
-    "timeWeek": 12249,
+    "timeWeek": 3543,
     "timeMonth": 13584,
-    "timeYear": 3974,
+    "timeYear": 4000,
     "dailyMinutesDown": {
-      "2024-01-30": 277,
+      "2024-01-31": 59,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -1333,8 +1334,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   }
 ]
