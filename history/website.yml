@@ -1,7 +1,7 @@
 url: https://www.storest.io/index.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-26T23:19:25.436Z
+status: degraded
+code: 502
+responseTime: 27662
+lastUpdated: 2024-02-27T15:00:51.213Z
 startTime: 2022-04-27T15:39:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
