@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
     "status": "down",
-    "uptime": "20.50%",
+    "uptime": "20.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4572,
+    "time": 4605,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 12845,
     "timeYear": 16022,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -379,8 +380,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "application",
     "status": "down",
-    "uptime": "3.86%",
+    "uptime": "3.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -763,8 +764,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
     "status": "down",
-    "uptime": "20.51%",
+    "uptime": "20.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 4894,
+    "time": 4929,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 16366,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -1147,8 +1148,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   },
   {
@@ -1162,13 +1162,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 5813,
+    "time": 5856,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 15451,
+    "timeYear": 15246,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -1531,8 +1532,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
-      "2023-07-27": 1440,
-      "2023-07-26": 1440
+      "2023-07-27": 1440
     }
   }
 ]
