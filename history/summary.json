@@ -16,7 +16,7 @@
     "timeMonth": 5979,
     "timeYear": 11625,
     "dailyMinutesDown": {
-      "2024-10-24": 677,
+      "2024-10-24": 688,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-24": 677,
+      "2024-10-24": 688,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -772,7 +772,7 @@
     "url": "https://www.storest.io/index.html",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "18.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 6291,
     "timeYear": 13106,
     "dailyMinutesDown": {
-      "2024-10-24": 677,
+      "2024-10-24": 688,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 11317,
     "timeYear": 12385,
     "dailyMinutesDown": {
-      "2024-10-24": 677,
+      "2024-10-24": 688,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
