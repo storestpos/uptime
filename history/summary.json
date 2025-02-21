@@ -4,7 +4,7 @@
     "url": "https://api.storest.io/health",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
-    "status": "degraded",
+    "status": "down",
     "uptime": "16.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 6385,
     "timeYear": 9635,
     "dailyMinutesDown": {
-      "2025-02-21": 1384,
+      "2025-02-21": 1403,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-21": 1384,
+      "2025-02-21": 1403,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -772,7 +772,7 @@
     "url": "https://www.storest.io/index.html",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "16.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 4741,
     "timeYear": 9143,
     "dailyMinutesDown": {
-      "2025-02-21": 1384,
+      "2025-02-21": 1403,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 6787,
     "timeYear": 10093,
     "dailyMinutesDown": {
-      "2025-02-21": 1384,
+      "2025-02-21": 1403,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
