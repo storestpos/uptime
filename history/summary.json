@@ -16,7 +16,7 @@
     "timeMonth": 8301,
     "timeYear": 10429,
     "dailyMinutesDown": {
-      "2025-02-22": 592,
+      "2025-02-22": 599,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 592,
+      "2025-02-22": 599,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 7061,
     "timeYear": 10082,
     "dailyMinutesDown": {
-      "2025-02-22": 592,
+      "2025-02-22": 599,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1156,7 +1156,7 @@
     "url": "https://api.storest.io/api/v1/payment/status",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "payments",
-    "status": "degraded",
+    "status": "down",
     "uptime": "3.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 9185,
     "timeYear": 10996,
     "dailyMinutesDown": {
-      "2025-02-22": 592,
+      "2025-02-22": 599,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
