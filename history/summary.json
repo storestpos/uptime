@@ -13,10 +13,10 @@
     "time": 14156,
     "timeDay": 19657,
     "timeWeek": 19718,
-    "timeMonth": 16506,
+    "timeMonth": 16738,
     "timeYear": 14155,
     "dailyMinutesDown": {
-      "2025-03-04": 933,
+      "2025-03-04": 945,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-04": 933,
+      "2025-03-04": 945,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -772,7 +772,7 @@
     "url": "https://www.storest.io/index.html",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "16.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 16513,
     "timeYear": 14280,
     "dailyMinutesDown": {
-      "2025-03-04": 933,
+      "2025-03-04": 945,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 17251,
     "timeYear": 14868,
     "dailyMinutesDown": {
-      "2025-03-04": 933,
+      "2025-03-04": 945,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
