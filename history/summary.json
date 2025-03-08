@@ -16,7 +16,7 @@
     "timeMonth": 18492,
     "timeYear": 15493,
     "dailyMinutesDown": {
-      "2025-03-08": 3,
+      "2025-03-08": 65,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-08": 3,
+      "2025-03-08": 65,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
     "status": "down",
-    "uptime": "16.06%",
+    "uptime": "16.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -784,7 +784,7 @@
     "timeMonth": 18200,
     "timeYear": 15617,
     "dailyMinutesDown": {
-      "2025-03-08": 3,
+      "2025-03-08": 65,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 18637,
     "timeYear": 15944,
     "dailyMinutesDown": {
-      "2025-03-08": 3,
+      "2025-03-08": 65,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
