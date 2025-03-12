@@ -4,7 +4,7 @@
     "url": "https://api.storest.io/health",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
-    "status": "degraded",
+    "status": "down",
     "uptime": "15.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 19589,
     "timeYear": 16630,
     "dailyMinutesDown": {
-      "2025-03-12": 474,
+      "2025-03-12": 481,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 475,
+      "2025-03-12": 481,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 19545,
     "timeYear": 16588,
     "dailyMinutesDown": {
-      "2025-03-12": 475,
+      "2025-03-12": 481,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 19437,
     "timeYear": 16837,
     "dailyMinutesDown": {
-      "2025-03-12": 475,
+      "2025-03-12": 481,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
