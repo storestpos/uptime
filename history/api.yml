@@ -1,7 +1,7 @@
 url: https://api.storest.io/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-16T23:57:43.737Z
+status: degraded
+code: 522
+responseTime: 19896
+lastUpdated: 2025-03-17T04:53:31.554Z
 startTime: 2022-04-27T15:39:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
