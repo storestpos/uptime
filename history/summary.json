@@ -5,18 +5,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "api",
     "status": "degraded",
-    "uptime": "13.99%",
+    "uptime": "13.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 18774,
-    "timeDay": 19783,
-    "timeWeek": 19738,
-    "timeMonth": 19718,
-    "timeYear": 18925,
+    "time": 18776,
+    "timeDay": 19967,
+    "timeWeek": 19770,
+    "timeMonth": 19722,
+    "timeYear": 18927,
     "dailyMinutesDown": {
-      "2025-08-09": 101,
+      "2025-08-10": 114,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -379,8 +380,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-09": 101,
+      "2025-08-10": 114,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -763,8 +764,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
     "status": "degraded",
-    "uptime": "13.99%",
+    "uptime": "13.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 18782,
-    "timeDay": 19739,
-    "timeWeek": 19667,
-    "timeMonth": 19674,
-    "timeYear": 18920,
+    "timeDay": 19361,
+    "timeWeek": 19625,
+    "timeMonth": 19671,
+    "timeYear": 18921,
     "dailyMinutesDown": {
-      "2025-08-09": 101,
+      "2025-08-10": 114,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -1147,8 +1148,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "payments",
     "status": "degraded",
-    "uptime": "2.60%",
+    "uptime": "2.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 18681,
-    "timeDay": 19860,
-    "timeWeek": 19628,
-    "timeMonth": 19573,
-    "timeYear": 18842,
+    "time": 18682,
+    "timeDay": 19449,
+    "timeWeek": 19633,
+    "timeMonth": 19574,
+    "timeYear": 18843,
     "dailyMinutesDown": {
-      "2025-08-09": 101,
+      "2025-08-10": 114,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -1531,8 +1532,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   }
 ]
