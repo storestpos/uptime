@@ -1,7 +1,7 @@
 url: https://api.storest.io/api/v1/payment/status
 status: degraded
 code: 522
-responseTime: 19362
-lastUpdated: 2026-01-27T23:30:32.711Z
+responseTime: 19814
+lastUpdated: 2026-01-28T23:33:48.481Z
 startTime: 2022-04-27T15:39:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
