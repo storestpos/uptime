@@ -16,7 +16,7 @@
     "timeMonth": 19753,
     "timeYear": 19638,
     "dailyMinutesDown": {
-      "2026-02-18": 132,
+      "2026-02-18": 717,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-18": 132,
+      "2026-02-18": 718,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -772,7 +772,7 @@
     "url": "https://www.storest.io/index.html",
     "icon": "https://raw.githubusercontent.com/storestpos/uptime/master/assets/icon.svg",
     "slug": "website",
-    "status": "degraded",
+    "status": "down",
     "uptime": "12.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 19631,
     "timeYear": 19626,
     "dailyMinutesDown": {
-      "2026-02-18": 132,
+      "2026-02-18": 718,
       "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 19570,
     "timeYear": 19398,
     "dailyMinutesDown": {
-      "2026-02-18": 264,
+      "2026-02-18": 1436,
       "2026-02-17": 2880,
       "2026-02-16": 2880,
       "2026-02-15": 2880,
